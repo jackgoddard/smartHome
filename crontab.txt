@@ -1,0 +1,2 @@
+0 * * * * python /home/jack/smartHome/live/smartHome.py --tempRecord > /dev/null
+30 * * * * python /home/jack/smartHome/live/smartHome.py --tempRecord > /dev/null

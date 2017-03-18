@@ -1,0 +1,3 @@
+[submodule "tempSensor"]
+	path = tempSensor
+	url = https://github.com/jackgoddard/tempSensor.git
